@@ -199,5 +199,13 @@ anlayışıyla geliştirilmiştir.
 
 ------------------------------------------------------------------------
 
+## Görsel
+
+<img width="1669" height="1028" alt="Screenshot_8" src="https://github.com/user-attachments/assets/b56c7279-a391-49ba-9f24-747116833099" />
+
+<img width="1674" height="1027" alt="Screenshot_10" src="https://github.com/user-attachments/assets/fb9daa60-dbe4-4a53-b3d0-03efbf6da659" />
+<img width="977" height="815" alt="Screenshot_11" src="https://github.com/user-attachments/assets/bcae50c4-d82c-4f61-b690-42d56c7c7f6d" />
+
+
 **Task-Tracking** -- Görevlerinizi düzenleyin, notlarınızı yönetin ve
 ilerlemenizi takip edin.
